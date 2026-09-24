@@ -10,7 +10,11 @@ We design and build WordPress (Gutenberg/FSE) websites and modular, spec-driven 
 
 - **vicunav-gutenberg** — Our own site, migrated from Elementor to a native Gutenberg block theme
 - **vicunav-hub** — Architecture for a modular ecosystem of vertical-specific plugins (hospitality, restaurants)
-- **vicunav-os-next** — Internal operations platform (Next.js, PostgreSQL)
 - **vicunav-standards** — Shared engineering standards across the ecosystem
+- **vicunav-repo-template** — Starter template for new repositories
+- **vicunav-theme-core** — Shared block theme foundation
+- **vicunav-pagos** — Payments plugin
+- **vicunav-restaurante** — Restaurant ordering plugin
+- **vicunav-demo-restaurante** — Restaurant demo site
 
 Built with spec-driven development, documented decisions (ADRs), and real QA — not just working code.
